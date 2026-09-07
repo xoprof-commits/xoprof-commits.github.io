@@ -1,8 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.xoprof_commits.twa",
-    "sha256_cert_fingerprints": ["30:7A:03:0C:BC:5B:7B:EB:09:58:D3:C2:2A:3C:63:7C:D9:6C:BE:35:3A:7D:81:38:6D:95:D8:60:01:7C:52:40"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.xoprof_commits.twa",
+      "sha256_cert_fingerprints": [
+        "2D:C9:99:87:AA:EB:2D:06:D4:E1:5B:C0:FB:7E:DA:EF:82:0B:9E:1E:06:9C:41:2F:78:5F:0D:C8:3C:88:8E:09"
+      ]
+    }
   }
-}]
+]
